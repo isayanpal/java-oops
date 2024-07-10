@@ -1,4 +1,4 @@
-package Polymorphism;
+package Inheritance;
 // multi level inheritance
 class Shape2 {
     public void area(){

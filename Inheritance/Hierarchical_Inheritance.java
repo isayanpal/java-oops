@@ -1,4 +1,4 @@
-package Polymorphism;
+package Inheritance;
 
 class Shape3 {
     public void area(){
